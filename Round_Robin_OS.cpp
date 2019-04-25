@@ -97,5 +97,5 @@ int main()
 		cout<<p[i].p_id<<"		 "<<p[i].a_t<<"		 "<<p[i].b_t<<"		 "<<p[i].c_t<<"			 "<<p[i].tat<<"		 "<<p[i].w_t<<"	   	 "<<p[i].r_t<<endl;
 	}
 	return 0;
-	cout<<"DONE";
+	cout<<"SCHEDULING DONE";
 }
